@@ -64,4 +64,4 @@ python brightness_hand_control.py
 
 ## 🎥 Watch it in Action
 
-[![Watch the demo](https://img.youtube.com/vi/CgUA7XS_OXY&ab_channel=x/0.jpg)](https://www.youtube.com/watch?v=CgUA7XS_OXY&ab_channel=x)
+[![Watch the demo](https://img.youtube.com/vi/CgUA7XS_OXY/0.jpg)](https://www.youtube.com/watch?v=CgUA7XS_OXY)
